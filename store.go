@@ -11,7 +11,7 @@ import (
 	"time"
 
 	sq "github.com/Masterminds/squirrel"
-	"github.com/swithek/sessionup"
+	"github.com/jellydator/sessionup"
 )
 
 var (

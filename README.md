@@ -1,16 +1,16 @@
 # sessionup-sqlitestore
-[![GoDoc](https://godoc.org/github.com/davseby/sessionup-sqlitestore?status.png)](https://godoc.org/github.com/davseby/sessionup-sqlitestore)
-[![Test coverage](http://gocover.io/_badge/github.com/davseby/sessionup-sqlitestore)](https://gocover.io/github.com/davseby/sessionup-sqlitestore)
-[![Go Report Card](https://goreportcard.com/badge/github.com/davseby/sessionup-sqlitestore)](https://goreportcard.com/report/github.com/davseby/sessionup-sqlitestore)
+[![GoDoc](https://godoc.org/github.com/jellydator/sessionup-sqlitestore?status.png)](https://godoc.org/github.com/jellydator/sessionup-sqlitestore)
+[![Test coverage](http://gocover.io/_badge/github.com/jellydator/sessionup-sqlitestore)](https://gocover.io/github.com/jellydator/sessionup-sqlitestore)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jellydator/sessionup-sqlitestore)](https://goreportcard.com/report/github.com/jellydator/sessionup-sqlitestore)
 
-This is an [SQLite](https://github.com/mattn/go-sqlite3) session store implementation for [sessionup](https://github.com/swithek/sessionup)
+This is an [SQLite](https://github.com/mattn/go-sqlite3) session store implementation for [sessionup](https://github.com/jellydator/sessionup)
 
 ## Installation
 
 To install simply use:
 
 ```
-go get github.com/davseby/sessionup-sqlitestore
+go get github.com/jellydator/sessionup-sqlitestore
 ```
 
 ## Usage
